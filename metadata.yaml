@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/362
     wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30622#The-Unknown-Quantity--A-Book-of-Romance-and-Some-Half-Told-Tales
 gutenberg_issued: '2009-12-07'
 gutenberg_type: Text
 identifiers:
