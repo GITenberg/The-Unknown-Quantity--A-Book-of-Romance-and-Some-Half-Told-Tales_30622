@@ -1,0 +1,37 @@
+_repo: The-Unknown-Quantity--A-Book-of-Romance-and-Some-Half-Told-Tales_30622
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30622-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry I. Van
+    - Dyke, Henry Van
+    - Dyke, Henry Jackson Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '2009-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: The wedding-ring -- Messengers at the window -- The countersign of
+  the cradle -- The key of the tower -- The ripening of the fruit -- The king's jewel
+  -- The music-lover -- Humoreske -- An old game -- The unruly sprite -- A change
+  of air -- The night call -- The effectual fervent prayer -- The return of the charm
+  -- Beggars under the bush -- Stronghold -- In the odour of sanctity -- The sad shepherd
+  -- The mansion.
+title: 'The Unknown Quantity: A Book of Romance and Some Half-Told Tales'
+url: http://www.gutenberg.org/ebooks/30622
